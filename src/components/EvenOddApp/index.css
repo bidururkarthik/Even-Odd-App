@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.container {
+  text-align: center;
+}
+
+.cardcontainer {
+  background-image: linear-gradient(to top, #ff6e7f, #bfe9ff);
+  background-size: cover;
+  text-align: center;
+  width: 350px;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 28px;
+}
+
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.button {
+  border-width: 0px;
+  border-radius: 3px;
+  padding: 5px;
+}
